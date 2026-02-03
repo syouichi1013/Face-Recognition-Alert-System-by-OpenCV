@@ -8,11 +8,15 @@ A single training image (1.jpg) is used to train the face recognition model（ju
 > **Tips**: For better recognition accuracy, it is recommended to use **multiple training images** (different angles, lighting conditions) of the target person instead of a single image.
 
 File structure:
+
 ./
+
 ├── face/ 
+
 │ └──  1.jpg
 
 ├── trainer/
+
 │ └── trainer.yml 
 
 ├── haarcascade_frontalface_default.xml 
