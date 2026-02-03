@@ -11,10 +11,14 @@ File structure:
 ./
 ├── face/ 
 │ └──  1.jpg
+
 ├── trainer/
 │ └── trainer.yml 
+
 ├── haarcascade_frontalface_default.xml 
+
 ├── main.py 
+
 └── train.py 
 
 ## Training
